@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Krati Mishra!
 
-<!--
-**KratiMishra21/KratiMishra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently pursuing B.Tech at **Indira Gandhi Delhi Technical University for Women**. I'm a passionate technology enthusiast driven by curiosity and a desire to solve real-world problems through innovation and code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Exploring the frontiers of **Artificial Intelligence**, **Machine Learning**, and **Competitive Programming**
+- 💻 Building dynamic web applications using the **MERN Stack**
+- 📈 Continuously enhancing my skills in **Data Structures and Algorithms (DSA)**
+- 💡 Eager to take on projects that challenge me and create meaningful impact
+
+I’m particularly passionate about projects that merge creativity with technology and push the boundaries of what’s possible.
+
+## 🛠️ Top Skills
+
+- **Data Structures & Algorithms**
+- **Machine Learning / AI**
+- **MERN Stack Development**
+- **Unity Game Development**
+- **3D Modeling with Blender**
+- **Open Source Contributions**
+
+## 📫 Let’s Connect!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 🐙 [GitHub](https://github.com/yourusername)  
+- ✉️ Email: your.email@example.com
+
+---
+
+✨ *“Technology is best when it brings people together.”* – Let’s build something impactful!
