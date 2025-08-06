@@ -22,7 +22,7 @@ I’m particularly passionate about projects that merge creativity with technolo
 
 ## 📫 Let’s Connect!
 
-- 🌐 [LinkedIn](www.linkedin.com/in/krati-mishra)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/krati-mishra).  
 - 🐙 [GitHub](https://github.com/KratiMishra21)  
 - ✉️ Email: krati.innovates@gmail.com
 
